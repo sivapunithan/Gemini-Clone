@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "5796000000005071",
+      "name": "VijayGemini",
+      "domain": {
+        "id": "50018473359",
+        "name": "vijaygemini-60028105093.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028105093",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
